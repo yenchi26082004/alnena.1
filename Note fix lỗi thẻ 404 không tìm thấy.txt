@@ -1,0 +1,7 @@
+Note fix lỗi thẻ 404 không tìm thấy cửa hàng alnena(45)
+Cách 1: hủy bỏ đường dẫn cho đến khi khắc phục được
+Cách 2: tiền hành fix lỗi 404
+1. Thay đổi đường dẫn ở dòng code 246 thành đường dẫn của thẻ Cuahangerror.html
+2. Sửa tên hiển thị Cửa hàng (45) -> Cửa Hàng
+3. Bổ sung thẻ div chưa thông tin cửa hàng vào đoạn code 426-> 463
+4. Ẩn các dòng code báo lỗi không tìm thấy bằng cách comment hóa các dòng code 464 ->501
